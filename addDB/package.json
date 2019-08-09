@@ -1,0 +1,16 @@
+{
+  "name": "adddb",
+  "version": "1.0.0",
+  "description": "向mongodb数据库添加数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.3.0-beta2"
+  },
+  "devDependencies": {}
+}
